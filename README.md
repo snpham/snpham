@@ -6,20 +6,20 @@
 <br/>
 
 ```
-                         ★
-                        ╱ ╲
-                       ╱   ╲
-            ──────────╱─────╲──────────
-                     ╱ EARTH ╲
-                    ╱─────────╲
-                   ◉             ◉
-                 ╱                 ╲
-          ◉ · · · → cislunar → · · · ◉
-               ╲                     ╱
-                ◉                   ◉
-                 ╲                 ╱
-                  · · → deep → · ·
-                       space
+                            *
+                           / \
+                          /   \
+               ----------/-----\----------
+                        / EARTH \
+                       /---------\
+                      o           o
+                    /               \
+             o . . . > cislunar > . . . o
+                  \                   /
+                   o                 o
+                    \               /
+                     . . > deep > . .
+                          space
 ```
 
 <br/>
@@ -120,6 +120,8 @@ class SonPham:
 ---
 
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=snpham&style=flat-square&color=4FC3F7&label=PROFILE+VIEWS" />
 
 *"A terra ad lunam"* — from Earth to the Moon 🌑
 
