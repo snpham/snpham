@@ -6,20 +6,20 @@
 <br/>
 
 ```
-                        ★
-                       ╱ ╲
-                      ╱   ╲
-           ─────────╱─────╲─────────
-                   ╱ EARTH ╲
-                  ╱─────────╲
-                 ◉            ◉
-               ╱                ╲
-        ◉ · · ·  → cislunar →  · · · ◉
-             ╲                    ╱
-              ◉                  ◉
-               ╲                ╱
-                · · → deep  → ·
-                     space
+                         ★
+                        ╱ ╲
+                       ╱   ╲
+            ──────────╱─────╲──────────
+                     ╱ EARTH ╲
+                    ╱─────────╲
+                   ◉             ◉
+                 ╱                 ╲
+          ◉ · · · → cislunar → · · · ◉
+               ╲                     ╱
+                ◉                   ◉
+                 ╲                 ╱
+                  · · → deep → · ·
+                       space
 ```
 
 <br/>
@@ -65,27 +65,27 @@ class SonPham:
 ### `> trajectory.log`
 
 ```
-2019 ─── INTUITIVE MACHINES ─── Houston, TX
-│       Lunar lander trajectory design & propulsion FSW
-│       LOX/LCH4 engine hot-fire testing support
-│
-2020 ─── INTELSAT ─── McLean, VA
-│       GEO orbit-raising & station-keeping
-│       Ground system OD & maneuver planning software
-│
-2020 ─── JACOBS (NASA MSFC) ─── Huntsville, AL
-│       Artemis I SLS trajectory analysis
-│       Advanced Concepts Office launch vehicle design
+2022 ─── BLUE ORIGIN ─── Seattle, WA ──── ★ present
+│       Hybrid low-thrust / chemical trajectory design
+│       Spacecraft orbit determination systems
+│       Agile lead & mission planning tooling
 │
 2021 ─── CU BOULDER ─── Boulder, CO
 │       M.S. coursework: CV, data mining, ML
 │       Lunar surface feature detection (CNNs)
 │       Galaxy morphological classification (+1M objects)
 │
-2022 ─── BLUE ORIGIN ─── Seattle, WA ──── ★ present
-        Hybrid low-thrust / chemical trajectory design
-        Spacecraft orbit determination systems
-        Agile lead & mission planning tooling
+2020 ─── JACOBS (NASA MSFC) ─── Huntsville, AL
+│       Artemis I SLS trajectory analysis
+│       Advanced Concepts Office launch vehicle design
+│
+2020 ─── INTELSAT ─── McLean, VA
+│       GEO orbit-raising & station-keeping
+│       Ground system OD & maneuver planning software
+│
+2019 ─── INTUITIVE MACHINES ─── Houston, TX
+        Lunar lander trajectory design & propulsion FSW
+        LOX/LCH4 engine hot-fire testing support
 ```
 
 ---
@@ -96,10 +96,10 @@ class SonPham:
 
 | Domain | Tools |
 |:---|:---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Astrodynamics** | `GMAT` · `STK` · `Monte` · `SPICE/Naif` · `Orekit` |
-| **ML / Data** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TF-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **Web / Dev** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Astrodynamics** | `Copernicus` · `GMAT` · `STK` · `Monte` · `SPICE/Naif` · `Orekit` |
+| **ML / Data** | ![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TF-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Web / Dev** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </div>
 
@@ -119,20 +119,7 @@ class SonPham:
 
 ---
 
-### `> github.stats`
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=snpham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snpham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9" width="40%" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=snpham&style=flat-square&color=4FC3F7&label=PROFILE+VIEWS" />
 
 *"A terra ad lunam"* — from Earth to the Moon 🌑
 
