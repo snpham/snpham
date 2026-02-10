@@ -10,7 +10,7 @@
 
 [![Blue Origin](https://img.shields.io/badge/🚀_Blue_Origin-Mission_Design_&_Nav-0D1B3E?style=for-the-badge&labelColor=0D1B3E)](https://www.blueorigin.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snpham/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-snpham.dev-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://snpham.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-snpham.com-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://snpham.com)
 
 </div>
 
